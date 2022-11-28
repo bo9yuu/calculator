@@ -1,6 +1,6 @@
 #include <arithmetic.h>
 
-int mul(int a, int b)
+int mul(int b)
 {
-    return a*b;
+    return b;
 }
